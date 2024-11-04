@@ -37,7 +37,7 @@
     "@pagopa/ts-commons": "^10.2.1",
     "@types/react-transition-group": "^4.4.10",
     "axios": "^1.6.7",
-    "bootstrap": "^4.5.3",
+    "bootstrap": "^5.0.0",
     "classnames": "^2.2.6",
     "date-fns": "^2.16.1",
     "env-cmd": "^10.1.0",
